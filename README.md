@@ -1,1 +1,1 @@
-# ArticleSummarization_HuggingFace
+# ArticleSummarization
